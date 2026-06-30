@@ -3,8 +3,18 @@
 *.spec
 build/
 dist/
+venv_build/
+
+# Python
 __pycache__/
 *.pyc
+*.pyo
 
 # Logs temporales
 *.log
+
+# Auth local (nunca subir contraseñas)
+auth.json
+
+# Código fuente privado
+firewall_v2.py
