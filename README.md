@@ -1,6 +1,6 @@
 # Enawall
 
-**Gestor de Firewall de Windows con interfaz gráfica — estética Matrix/Cyberpunk**
+**Gestor de Firewall de Windows con interfaz gráfica**
 
 Herramienta de seguridad para Windows que permite gestionar el Firewall de Windows, monitorear tráfico de red en tiempo real, analizar paquetes TCP/UDP y auditar todas las acciones del sistema.
 
