@@ -18,3 +18,5 @@ auth.json
 
 # Código fuente privado
 firewall_v2.py
+enawall_linux.py
+requirements_linux.txt
