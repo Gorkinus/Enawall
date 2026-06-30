@@ -1,0 +1,10 @@
+# Ejecutables compilados (se regeneran desde el fuente)
+*.exe
+*.spec
+build/
+dist/
+__pycache__/
+*.pyc
+
+# Logs temporales
+*.log
