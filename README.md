@@ -8,7 +8,22 @@ Herramienta de seguridad para Windows que permite gestionar el Firewall de Windo
 
 ## Descarga
 
-Descarga el ejecutable desde la sección [**Releases**](../../releases/latest) — no requiere instalación.
+Descarga desde la sección [**Releases**](../../releases/latest):
+
+| Sistema | Archivo | Requisitos |
+|---------|---------|------------|
+| **Windows 10/11** | `Enawall.exe` | Ninguno — doble clic y listo |
+| **Linux (Debian/Ubuntu/Kali)** | `enawall_linux.py` | Python 3 + dependencias (ver abajo) |
+
+### Linux — instalación rápida
+
+```bash
+sudo apt install python3-pyqt5 python3-psutil
+pip3 install pyqtgraph
+sudo python3 enawall_linux.py
+```
+
+> Requiere `sudo` porque usa `iptables` y raw sockets para captura de paquetes.
 
 ---
 
