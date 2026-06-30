@@ -79,6 +79,6 @@ Indicadores visuales con puntuación 0–100:
 
 ## Licencia
 
-MIT — ver [LICENSE](LICENSE)
+Apache 2.0 — ver [LICENSE](LICENSE)
 
-Libre para uso personal, educativo y comercial.
+Libre para uso personal, educativo y comercial. Incluye protección de patentes.
